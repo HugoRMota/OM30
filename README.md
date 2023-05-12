@@ -1,4 +1,4 @@
-# om30
+# Vue 3 - Tailwind - Axios - Crud
 
 This template should help get you started developing with Vue 3 in Vite.
 
